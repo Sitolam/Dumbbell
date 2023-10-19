@@ -36,7 +36,7 @@ dependencies:
   apple_sign_in: 0.1.0
   font_awesome_flutter: 8.8.1
   flutter_signin_button: 1.0.0
-  keyboard_actions: 3.2.1
+  keyboard_actions: ^4.2.0
 
   flutter:
     sdk: flutter
